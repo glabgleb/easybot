@@ -1,2 +1,4 @@
-# easyjsbot
-This is an easy open source javascript bot that you can use to make your server cooler 😎.
+# Easy Bot 😎
+These are bots coded in javascript and python to make your discord server cooler 😎😎😎😎😎😎😎😎😎😎😎😎😎😎. 
+
+Pick whatever you want to use.
