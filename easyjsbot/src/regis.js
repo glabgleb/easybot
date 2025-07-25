@@ -4,7 +4,7 @@ const path = require('path');
 const fs = require('fs');
 
 module.exports = (c) => {
-    const rest = new REST({ version: '10' }).setToken(process.env.DTOKEN);
+    const rest = new REST({ version: '10' }).setToken(process.env.TOKEN);
 
     const commands = []
     const commandFolders = fs.readdirSync(path.join(__dirname, 'commands')).filter(file => {
